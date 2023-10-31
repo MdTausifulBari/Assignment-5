@@ -1,0 +1,22 @@
+{
+    "tausiful@gmail.com": {
+        "username": "tausiful",
+        "password": "12345",
+        "role": "Admin"
+    },
+    "Bari@yahoo.edu": {
+        "username": "Bari",
+        "password": "112233",
+        "role": "manager"
+    },
+    "Abid@gmail.com": {
+        "username": "Abid",
+        "password": "12321",
+        "role": "manager"
+    },
+    "fallen@gmail.com": {
+        "username": "Fallen",
+        "password": "2468642",
+        "role": "user"
+    }
+}
